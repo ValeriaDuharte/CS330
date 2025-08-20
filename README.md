@@ -1,4 +1,5 @@
 For my 3D scene, I recreated a dark coffee table from my living space, populating it with personal items to give the environment meaning and realism. Each object introduced a different modeling challenge. I built the laptop using two rectangular boxes, while the spiral notebook used a base box and torus loops to form the spirals. The mug required a precise combination of a cylinder and a half torus for the handle, which was tricky to align. The star-shaped stress ball was the most complex, composed of a central sphere and five cones carefully arranged for symmetry.
 To manage complexity, I wrote reusable functions like DefineObjectMaterials(), SetupSceneLights(), and PlaceObject(), which made the code modular and maintainable. Navigation was implemented with mouse and keyboard controls to simulate realistic camera movement.
 Lighting played a crucial role: a warm directional light mimicked sunlight, while a blue point light added depth and contrast. Combined with Phong shading, these techniques helped create a polished, interactive, and immersive 3D environment.
+
 I wasn't able to attach the zip file because the file is too big and wouldn't load
